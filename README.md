@@ -33,22 +33,52 @@ This project sets up a *secure VPN server on AWS EC2* using *OpenVPN Access Serv
 ---
 
 ### 🔑 AWS Marketplace listing for "OpenVPN Access Server" with detailed product features and licensing info
-![SSH Login](2.jpg)
+![open vpn access](2.jpg)
 
 ---
 
-### 🛡️ OpenVPN Admin Dashboard
-![Admin Panel](assets/admin-login.png)
+### 🛡️  EC2 dashboard showing no running instances in the selected AWS region.
+![dashboard](3.jpg)
 
 ---
 
-### 📥 VPN Profile Download
-![VPN Profile](assets/vpn-profile.png)
+### 📥 EC2 instance launch configuration page showing AMI, key pair, instance type, and network settings.
+![EC2 instance](4.jpg)
 
 ---
 
-### ✅ VPN Client Connected
-![VPN Connected](assets/vpn-connected.png)
+### ✅ Security group rules setup for a new EC2 instance with OpenVPN-related firewall settings.
+![open vpn firewall](5.jpg)
+
+
+---
+
+### AWS console message indicating that an EC2 instance is being launched and setup is in progress.
+![launch](6.jpg)
+
+
+---
+
+###  EC2 instance list showing a running instance named "SAMM-VPN-Server" with its current state.
+![running](7.jpg)
+
+
+---
+
+### OpenVPN Access Server web interface showing available connection profiles and client installers..
+![client](8.jpg)
+
+
+---
+
+### OpenVPN web UI during download of the OpenVPN Connect installer and PEM file.
+![vpn ui](9.jpg)
+
+
+---
+
+### Overview of EC2 resources usage and Free Tier status on the AWS EC2 dashboard.
+![resource](10.jpg)
 
 
 ---
