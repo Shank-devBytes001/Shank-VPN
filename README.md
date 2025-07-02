@@ -25,11 +25,31 @@ This project sets up a *secure VPN server on AWS EC2* using *OpenVPN Access Serv
 
 ---
 
-## 🖼 Screenshots
+## 📸 Project Snapshots
 
-| EC2 Launch | SSH Login | OpenVPN Admin Panel |
-|------------|-----------|---------------------|
-| ![](assets/ec2-launch.png) | ![](assets/ssh-connect.png) | ![](assets/admin-login.png) |
+### 🟠 EC2 Instance Launched
+![EC2 Launch](.png)
+
+---
+
+### 🔑 SSH Connection to Server
+![SSH Login](assets/ssh-login.png)
+
+---
+
+### 🛡️ OpenVPN Admin Dashboard
+![Admin Panel](assets/admin-login.png)
+
+---
+
+### 📥 VPN Profile Download
+![VPN Profile](assets/vpn-profile.png)
+
+---
+
+### ✅ VPN Client Connected
+![VPN Connected](assets/vpn-connected.png)
+
 
 ---
 
