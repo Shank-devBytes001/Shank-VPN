@@ -28,12 +28,12 @@ This project sets up a *secure VPN server on AWS EC2* using *OpenVPN Access Serv
 ## 📸 Project Snapshots
 
 ### 🟠 Screenshot of the AWS Console homepage displaying general navigation and service options
-![EC2 Launch](1.jpg)
+![AWS Console](1.jpg)
 
 ---
 
-### 🔑 SSH Connection to Server
-![SSH Login](assets/ssh-login.png)
+### 🔑 AWS Marketplace listing for "OpenVPN Access Server" with detailed product features and licensing info
+![SSH Login](2.jpg)
 
 ---
 
