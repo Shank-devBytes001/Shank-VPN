@@ -1,4 +1,4 @@
-# Shank-VPN
+# Shank_Custom_VPN
 Your Own Custom  free VPN setup
 # 🚀 Deploy OpenVPN Access Server on AWS EC2
 
